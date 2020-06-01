@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Captain Delilah Bard</title>
+<link href='https://fonts.googleapis.com/css?family=Rozha One' rel='stylesheet'>
+<link href='https://fonts.googleapis.com/css?family=Abril Fatface' rel='stylesheet'>
+</head>
+<style>
+    body{
+        font-family: "Rozha One";
+        margin: 0px;
+        
+      background-image: url("https://wallpapercave.com/wp/KX9Ir5p.jpg");
+      
+      background-repeat: no-repeat;
+    
+      background-size: cover;
+      color: white;
+         
+    }
+    .dark1{
+      display: flex;
+      justify-content: center;
+        width: 100%;
+        height: 600px;
+        font-size: 20px;
+        
+    }
+    .dark1 h1{
+        letter-spacing: 05px;
+        margin-left: -50px;
+        padding-top: 20%;
+     
+    }
+
+    .navbar{
+        padding-right: 20px;
+    }
+    .navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+ 
+.navbar li {
+  float: right;
+  padding-top: 20px;
+}
+.navbar a {
+  display: block;
+  padding: 8px;
+  background-color: transparent;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  font-size: 17px;
+  text-decoration: none;  
+
+}
+.navbar li a:hover {
+  color: #111;
+}
+
+</style>
+<body>
+    
+    <div class="navbar">
+        <ul>
+            <li><a href="#">About the Author</a></li>
+            
+            <li><a href="#">Quotes</a></li>
+            <li><a href="file:///C:/Users/arham.siddiquee/Desktop/Characters.html">Characters</a></li>
+            <li><a href="file:///C:/Users/arham.siddiquee/Desktop/Delilah%20Bard.html">Home</a></li>
+            
+        </ul>
+    </div>
+    <div class="dark1">
+    <div class = "dark">
+  <h1 >A Darker Shade of Magic</h1>
+  <p> For those who dream of stranger worlds......</p>  
+    </div>
+    </div>
+</body>
+</html>
